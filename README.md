@@ -43,29 +43,29 @@ This project is built with **HTML, CSS, JavaScript, Firebase (Auth + Firestore)*
 
 PROJECT STRUCTURE:-
 
-student-teacher-booking/
-├─ index.html
-├─ admin-dashboard.html
-├─ teacher-dashboard.html
-├─ student-dashboard.html
-├─ css/
-│  └─ style.css
-├─ js/
-│  ├─ admin.js
-│  ├─ teacher.js
-│  └─ student.js
-├─ docs/
-│  ├─ Architecture.md
-│  ├─ LLD.md
-│  ├─ Optimization.md
-│  ├─ TestCases.md
-│  ├─ ProjectReport.pdf
-│  └─ screenshots/
-│      ├─ main_page.png
-│      ├─ admin_dashboard.png
-│      ├─ teacher_dashboard.png
-│      └─ student_dashboard.png
-└─ README.md
+ student-teacher-booking/
+ ├─ index.html
+ ├─ admin-dashboard.html
+ ├─ teacher-dashboard.html
+ ├─ student-dashboard.html
+ ├─ css/
+ │  └─ style.css
+ ├─ js/
+ │  ├─ admin.js
+ │  ├─ teacher.js
+ │  └─ student.js
+ ├─ docs/
+ │  ├─ Architecture.md
+ │  ├─ LLD.md
+ │  ├─ Optimization.md
+ │  ├─ TestCases.md
+ │  ├─ ProjectReport.pdf
+ │  └─ screenshots/
+ │      ├─ main_page.png
+ │      ├─ admin_dashboard.png
+ │      ├─ teacher_dashboard.png
+ │      └─ student_dashboard.png
+ └─ README.md
 
 📌 Deployment
 
