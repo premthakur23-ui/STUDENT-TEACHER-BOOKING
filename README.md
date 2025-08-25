@@ -37,9 +37,9 @@ This project is built with **HTML, CSS, JavaScript, Firebase (Auth + Firestore)*
 ## ⚙️ Setup Instructions
 
 ### 1. Clone Repository
-```bash
-git clone https://github.com/your-username/student-teacher-booking.git
-cd student-teacher-booking
+
+ git clone https://github.com/your-username/student-teacher-booking.git
+ cd student-teacher-booking.
 
 PROJECT STRUCTURE:-
 
@@ -74,3 +74,5 @@ This project runs locally using VS Code Live Server.
 Justification: Local deployment is chosen for simplicity during academic evaluation.
 
 Can be scaled to Firebase Hosting in future.
+
+
