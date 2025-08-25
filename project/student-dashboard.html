@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Student Dashboard</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<body>
+  <div class="dashboard">
+    <h2>Student Dashboard</h2>
+    <button class="btn btn-logout" onclick="logout()">Logout</button>
+
+    <div class="section">
+      <h3>Search Teacher</h3>
+      <input type="text" id="searchTeacher" placeholder="Enter teacher name">
+      <button class="btn btn-approve" onclick="searchTeacher()">Search</button>
+      <div id="teacherList"></div>
+    </div>
+
+    <div class="section">
+      <h3>My Appointments</h3>
+      <div class="table-container">
+        <table>
+          <thead>
+            <tr>
+              <th>Teacher</th>
+              <th>Time</th>
+              <th>Status</th>
+            </tr>
+          </thead>
+          <tbody id="studentAppointmentsTable"></tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+</body>
+
+  <script type="module" src="student.js"></script>
+</body>
+</html>
