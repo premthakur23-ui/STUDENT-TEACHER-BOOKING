@@ -5,3 +5,7 @@ Client (Browser) → Firebase Auth → Firestore Show collections: users, teache
 Page-level wireframes (simple boxes are fine):
 
 Index (register/login cards) Admin dashboard sections Teacher & Student dashboards Deployment note: Local
+
+Deployment: Local (VS Code Live Server).
+
+Justification: Chosen for simplicity during academic evaluation, zero hosting cost, and quick iteration. The frontend is static and already uses Firebase services; therefore, migration to Firebase Hosting is trivial if needed later.
