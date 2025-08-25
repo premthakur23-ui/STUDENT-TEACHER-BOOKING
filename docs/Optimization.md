@@ -1,0 +1,4 @@
+- Modular JavaScript (admin.js, teacher.js, student.js)
+- Real-time updates with Firestore onSnapshot
+- Centralized logging function
+- Simple and minimal UI for performance
