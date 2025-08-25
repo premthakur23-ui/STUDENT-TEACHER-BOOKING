@@ -1,0 +1,1 @@
+The system is built on a client-server model with Firebase as the backend. The architecture consists of the client (browser) interacting with Firebase Authentication for login and Firebase Firestore for storing users, teachers, appointments, and logs.
