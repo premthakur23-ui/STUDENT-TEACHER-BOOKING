@@ -38,7 +38,7 @@ This project is built with **HTML, CSS, JavaScript, Firebase (Auth + Firestore)*
 
 ### 1. Clone Repository
 
- git clone https://github.com/your-username/student-teacher-booking.git
+ git clone https://github.com/premthakur23-ui/student-teacher-booking.git
  cd student-teacher-booking.
 
 PROJECT STRUCTURE:-
